@@ -8,7 +8,7 @@ import path from "path";
 import fs from "fs";
 import dotenv from "dotenv";
 import { GoogleGenAI, Type } from "@google/genai";
-import { db, getFullDBState, performAutoMigration, initFirestore } from "./firestore";
+import { db, getFullDBState, performAutoMigration, initFirestore } from "./firestore.js";
 
 dotenv.config();
 
