@@ -1,0 +1,500 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Anubias Nana Golden",
+      "scientificName": "Anubias barteri var. nana 'Golden'",
+      "price": 450,
+      "originalPrice": 600,
+      "description": "An exquisite variant of Anubias nana displaying brilliant, light-green to golden leaves. Its compact size and extreme resilience make it a centerpiece favorite for high-end aquascapes.",
+      "careGuide": "Simply secure to driftwood, rocks, or hardscape using thread or aquarium glue. Do not bury the rhizome in substrate or the plant will rot. Thrives in low to medium light and benefits from trace liquid fertilizers.",
+      "difficulty": "Low Tech",
+      "light": "Low",
+      "co2": "None",
+      "category": "Anubias",
+      "images": [
+        "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 22,
+      "growthRate": "Slow",
+      "placement": "Foreground",
+      "temperature": "20-28°C",
+      "tankCompatibility": "Shrimp safe, community fish safe, cichlid resistant",
+      "reviews": [
+        {
+          "id": "rev-1",
+          "author": "Naimur Rahman",
+          "rating": 5,
+          "text": "Stunning golden hue. Rhizome is healthy and there is already new leaf growth after a week! Extremely premium packaging.",
+          "approved": true,
+          "date": "2026-06-15",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "prod-2",
+      "name": "Bucephalandra Ghost 2011",
+      "scientificName": "Bucephalandra sp. 'Ghost 2011'",
+      "price": 1250,
+      "originalPrice": 1500,
+      "description": "The absolute jewel of the aquascaping world. Bucephalandra Ghost 2011 is coveted for its iridescent leaves that shimmer with intense shades of blue, purple, and metallic green under strong light. Known for pearling beautifully.",
+      "careGuide": "Attach to volcanic stone or porous wood. Do not bury the roots or rhizome. Tolerates a range of lighting but shows its best colors with high light, CO2 injection, and regular iron dosing.",
+      "difficulty": "Mid Tech",
+      "light": "Medium",
+      "co2": "High",
+      "category": "Bucephalandra",
+      "images": [
+        "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 7,
+      "growthRate": "Slow",
+      "placement": "Midground",
+      "temperature": "22-26°C",
+      "tankCompatibility": "100% Shrimp safe, ideal for pristine high-tech layouts",
+      "reviews": [
+        {
+          "id": "rev-2",
+          "author": "Tariqul Islam",
+          "rating": 5,
+          "text": "The iridescent colors are mind-blowing! True collector's item. Pearled within 2 hours of introduction.",
+          "approved": true,
+          "date": "2026-06-20",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "prod-3",
+      "name": "Java Fern Trident",
+      "scientificName": "Microsorum pteropus 'Trident'",
+      "price": 380,
+      "originalPrice": 450,
+      "description": "A very elegant feather-like variant of Java Fern with narrow, deeply-lobed trident leaves. Perfect for creating dense, wild bushes inside wood structures.",
+      "careGuide": "Attach to stones or driftwood using line or gel. Tolerates low-tech tanks effortlessly and thrives in almost any water flow condition.",
+      "difficulty": "Low Tech",
+      "light": "Low",
+      "co2": "None",
+      "category": "Java Fern",
+      "images": [
+        "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 15,
+      "growthRate": "Medium",
+      "placement": "Midground",
+      "temperature": "18-30°C",
+      "tankCompatibility": "Herbivorous fish resistant, shrimp safe, excellent cover for fry",
+      "reviews": []
+    },
+    {
+      "id": "prod-4",
+      "name": "Premium Christmas Moss",
+      "scientificName": "Vesicularia montagnei",
+      "price": 220,
+      "originalPrice": 300,
+      "description": "Features beautiful, dark-green triangular branches resembling miniature Christmas trees. Adds instant age and natural realism to rocks and branches.",
+      "careGuide": "Tie tightly to surfaces or smear with a thin layer of gel. Pruning regularly keeps it thick and prevents lower layers from decaying.",
+      "difficulty": "Low Tech",
+      "light": "Low",
+      "co2": "Low",
+      "category": "Moss",
+      "images": [
+        "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 35,
+      "growthRate": "Medium",
+      "placement": "Foreground",
+      "temperature": "15-26°C",
+      "tankCompatibility": "Essential breeding ground for baby shrimp and nano fish",
+      "reviews": []
+    },
+    {
+      "id": "prod-5",
+      "name": "Rotala Rotundifolia 'H'ra'",
+      "scientificName": "Rotala rotundifolia 'H'ra'",
+      "price": 180,
+      "originalPrice": 250,
+      "description": "Known for its stunning, intense fiery-red color and delicate, narrow leaves. Creates a jaw-dropping forest-like backdrop when planted in dense clusters.",
+      "careGuide": "Plant stems directly in active nutrient-rich aquasoil. High light, low nitrate levels, and pressurized CO2 are mandatory to trigger the magnificent orange-red colors.",
+      "difficulty": "Mid Tech",
+      "light": "High",
+      "co2": "High",
+      "category": "Stem Plants",
+      "images": [
+        "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 40,
+      "growthRate": "Fast",
+      "placement": "Background",
+      "temperature": "20-28°C",
+      "tankCompatibility": "Community fish and shrimp friendly, needs routine trimming",
+      "reviews": [
+        {
+          "id": "rev-3",
+          "author": "Sajid Hasan",
+          "rating": 4,
+          "text": "Stems arrived fresh and green. Under my 100W light with CO2, they turned deep crimson within 10 days! Gorgeous.",
+          "approved": true,
+          "date": "2026-06-22",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "prod-6",
+      "name": "Amazon Frogbit",
+      "scientificName": "Limnobium laevigatum",
+      "price": 150,
+      "originalPrice": 200,
+      "description": "A delightful floating plant with round, spongy leaves and elegant dangling root structures. Excellent for absorbing excess organic waste and preventing algae blooms.",
+      "careGuide": "Let float on the water surface. Avoid high water flow on the leaves and do not cover completely, as they need air circulation.",
+      "difficulty": "Low Tech",
+      "light": "Medium",
+      "co2": "None",
+      "category": "Floating Plants",
+      "images": [
+        "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 50,
+      "growthRate": "Fast",
+      "placement": "Background",
+      "temperature": "18-30°C",
+      "tankCompatibility": "Sucks out nitrates, shrimp love grazing on the roots",
+      "reviews": []
+    },
+    {
+      "id": "prod-7",
+      "name": "A-Grade Seiryu Stone",
+      "scientificName": "Premium Limestone Hardscape",
+      "price": 250,
+      "originalPrice": 320,
+      "description": "Genuine, deeply-fissured gray stones with stunning white calcite veins. The definitive stone used to create classic Iwagumi style aquascapes.",
+      "careGuide": "Wash thoroughly before placement. These stones contain calcium carbonate and will slightly raise pH and GH, which is ideal for shrimp and plants with regular water changes.",
+      "difficulty": "Low Tech",
+      "light": "Low",
+      "co2": "None",
+      "category": "Hardscape",
+      "images": [
+        "https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 120,
+      "growthRate": "Slow",
+      "placement": "Midground",
+      "temperature": "N/A",
+      "tankCompatibility": "Safe for community aquariums, shrimp love foraging on stone biofilm",
+      "reviews": []
+    },
+    {
+      "id": "prod-8",
+      "name": "CO2 Regulator Pro Dual Stage",
+      "scientificName": "Pressurized CO2 Equipment",
+      "price": 6800,
+      "originalPrice": 7500,
+      "description": "Industrial-grade dual stage CO2 regulator with an integrated high-precision needle valve and electronic solenoid. Prevents 'end-of-tank dump' to protect your prized livestock.",
+      "careGuide": "Connect to a standard CO2 cylinder. Plug the solenoid into a timer synchronized with your lights (on 1 hour before, off 1 hour before lights out). Adjust flow bubble-by-bubble using the fine adjustment knob.",
+      "difficulty": "Mid Tech",
+      "light": "High",
+      "co2": "High",
+      "category": "CO₂ Equipment",
+      "images": [
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 5,
+      "growthRate": "Slow",
+      "placement": "Background",
+      "temperature": "N/A",
+      "tankCompatibility": "Saves plant lives, precise and highly safe for shrimp",
+      "reviews": []
+    },
+    {
+      "id": "prod-1782470949996",
+      "reviews": [],
+      "name": "dgd",
+      "scientificName": "dgfgfdg",
+      "price": 250,
+      "originalPrice": 300,
+      "description": "Write details...dgd",
+      "careGuide": "Securing guidelines...dgd",
+      "difficulty": "Low Tech",
+      "light": "Low",
+      "co2": "None",
+      "category": "Anubias",
+      "stock": 15,
+      "growthRate": "Slow",
+      "placement": "Foreground",
+      "temperature": "22-28°C",
+      "tankCompatibility": "Shrimp safe",
+      "images": [
+        "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": "prod-1782471622700",
+      "reviews": [],
+      "name": "kkkkkkk",
+      "scientificName": "kkkk",
+      "price": 250,
+      "originalPrice": 300,
+      "description": "Write details...",
+      "careGuide": "Securing guidelines...",
+      "difficulty": "Low Tech",
+      "light": "High",
+      "co2": "High",
+      "category": "Anubias",
+      "stock": 15,
+      "growthRate": "Fast",
+      "placement": "Foreground",
+      "temperature": "22-28°C",
+      "tankCompatibility": "Shrimp safe",
+      "images": [
+        "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+      ]
+    }
+  ],
+  "categories": [
+    "Anubias",
+    "Bucephalandra",
+    "Java Fern",
+    "Moss",
+    "Stem Plants",
+    "Floating Plants",
+    "Hardscape",
+    "CO₂ Equipment"
+  ],
+  "orders": [
+    {
+      "id": "ORD-4821",
+      "customerName": "Ahnaf Ali",
+      "phone": "01712345678",
+      "address": "House 12, Road 4, Dhanmondi",
+      "district": "Dhaka",
+      "area": "Dhanmondi",
+      "note": "Please pack with extra insulation to protect the Bucephalandra from heat.",
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "Bucephalandra Ghost 2011",
+          "price": 1250,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=800"
+        },
+        {
+          "productId": "prod-1",
+          "name": "Anubias Nana Golden",
+          "price": 450,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+        }
+      ],
+      "total": 2150,
+      "shippingCharge": 60,
+      "status": "Cancelled",
+      "createdAt": "2026-06-25T06:00:00.000Z"
+    },
+    {
+      "id": "ORD-1423",
+      "customerName": "ahnaf Ahnaf",
+      "phone": "01731113212123",
+      "address": "Abai Region\nAmman",
+      "district": "Dhaka",
+      "area": "hhj",
+      "note": "",
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "Bucephalandra Ghost 2011",
+          "price": 1250,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=800"
+        }
+      ],
+      "total": 1310,
+      "shippingCharge": 60,
+      "status": "Payment Verified",
+      "createdAt": "2026-06-26T11:43:31.316Z",
+      "paymentMethod": "Cash on Delivery",
+      "paymentNumberUsed": "",
+      "paymentTransactionId": "",
+      "paymentAmount": 1310,
+      "paymentScreenshot": ""
+    },
+    {
+      "id": "ORD-4357",
+      "customerName": "ahnaf Ahnaf",
+      "phone": "43345",
+      "address": "Abai Region\nAmman",
+      "district": "Dhaka",
+      "area": "453",
+      "note": "453",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Anubias Nana Golden",
+          "price": 450,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+        }
+      ],
+      "total": 510,
+      "shippingCharge": 60,
+      "status": "Payment Verification Pending",
+      "createdAt": "2026-06-26T12:00:36.930Z",
+      "paymentMethod": "Cash on Delivery",
+      "paymentNumberUsed": "",
+      "paymentTransactionId": "",
+      "paymentAmount": 510,
+      "paymentScreenshot": ""
+    },
+    {
+      "id": "ORD-6322",
+      "customerName": "ahnaf Ahnaf",
+      "phone": "011111111111",
+      "address": "Abai Region\nAmman",
+      "district": "Dhaka",
+      "area": "//",
+      "note": "",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Anubias Nana Golden",
+          "price": 450,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&q=80&w=800"
+        }
+      ],
+      "total": 510,
+      "shippingCharge": 60,
+      "status": "Payment Verification Pending",
+      "createdAt": "2026-06-26T12:10:27.479Z",
+      "paymentMethod": "Cash on Delivery",
+      "paymentNumberUsed": "",
+      "paymentTransactionId": "",
+      "paymentAmount": 510,
+      "paymentScreenshot": ""
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "Mastering Bucephalandra: The Ultimate Care and Propagation Guide",
+      "excerpt": "Discover how to grow, color, and successfully multiply rare Bucephalandra species in high-tech and low-tech aquariums.",
+      "content": "### Introduction to Bucephalandra\n\nBucephalandra is a genus of flowering rheophyte plants endemic to the island of Borneo. In their native habitats, they grow on rocks and logs along swift-moving jungle streams. They are renowned for their highly unique growth patterns, thick rhizomes, and mesmerizing iridescence.\n\n### Core Care Requirements\n\nTo successfully cultivate Bucephalandra, focus on reproducing their natural environment:\n\n1. **Attachment**: Never bury the rhizome in soil or gravel. This restricts oxygen flow and causes rotting. Instead, secure them using cotton thread, fishing line, or Cyanoacrylate-based superglue gel onto volcanic rocks, driftwood, or hard surfaces.\n2. **Water Flow**: They thrive in medium-to-strong flow. Good water movement delivers continuous trace nutrients and prevents detritus from smothering their slow-growing leaves.\n3. **CO2 and Nutrients**: Although they survive in low-tech tanks, pressurized CO2 injection and regular trace dosing (especially iron) unlock their legendary metallic colors (blue, violet, deep green).\n\n### Propagation and Trimming\n\nPropagating Bucephalandra is exceptionally straightforward. Once a branch of the rhizome grows to at least 2-3 inches and has established rootlets, cleanly snip it using sharp aquascaping scissors. Re-attach the cutting to a new piece of rock or wood. The parent plant will readily sprout fresh shoots from the cut location.",
+      "category": "Aquarium Plant Care Guides",
+      "tags": [
+        "Bucephalandra",
+        "Plant Care",
+        "Beginner Friendly",
+        "High-Tech"
+      ],
+      "author": "Ahnaf Ali (Plant Lead)",
+      "readTime": "5 min read",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=800",
+      "date": "2026-06-20",
+      "faq": [
+        {
+          "question": "Can Bucephalandra grow submerged and emersed?",
+          "answer": "Yes! They grow beautifully in both states. Submerged leaves display the signature iridescence, while emersed growth is faster and ideal for terrariums."
+        },
+        {
+          "question": "Why are my Bucephalandra leaves melting?",
+          "answer": "Melting is common when transitioning to new water parameters. Maintain stable conditions, high flow, and do not move the plant. Fresh healthy leaves will sprout."
+        }
+      ],
+      "seoTitle": "Mastering Bucephalandra: Ultimate Growth Guide | Leaf Aquatic",
+      "seoDescription": "Learn how to successfully attach, grow, color, and propagate prized Bucephalandra species in your aquarium. Secrets from Leaf Aquatic specialists."
+    },
+    {
+      "id": "blog-2",
+      "title": "Iwagumi Aquascaping: Rules of Japanese Stone Layouts",
+      "excerpt": "A deep dive into the 30-year-old art form of designing minimalist Zen rock layouts using Seiryu and Ryuoh stones.",
+      "content": "### The Essence of Iwagumi\n\nIwagumi is one of the most popular and challenging styles in aquascaping. Coined by Takashi Amano, it represents a minimalist layout reflecting Japanese rock gardens, emphasizing spiritual calmness, simplicity, and natural beauty.\n\n### The Key Stones and Their Roles\n\nAn Iwagumi layout always uses an odd number of rocks (typically 3, 5, or 7) to avoid unnatural symmetry. Each stone has a specific spiritual name and purpose:\n\n1. **Oyaishi (The Master Stone)**: The largest and most beautiful stone in the layout. It should occupy the focal point of the tank (conforming to the Golden Ratio) and must have a strong lean to show flow.\n2. **Fukuishi (The Secondary Stone)**: The second-largest stone, placed on the opposite side of the Oyaishi. It should balance the Oyaishi's strength and tilt angle.\n3. **Soishi (The Companion Stone)**: Smaller rocks placed next to the Oyaishi to ground its presence and create natural rock crevices.\n4. **Suteishi (The Sacrifice Stone)**: Tiny rocks often hidden or partially covered by carpeting plants. They serve as sub-accents to complete the reef look.\n\n### Carpet Plant Pairings\n\nTo preserve the sense of scale, Iwagumi layouts rely almost exclusively on low carpeting plants. Popular choices include *Eleocharis pusilla* (Dwarf Hairgrass), *Hemianthus callitrichoides* ('Cuba'), and *Glossostigma elatinoides*.",
+      "category": "Aquascaping Tutorials",
+      "tags": [
+        "Iwagumi",
+        "Hardscape",
+        "Tutorials",
+        "Takashi Amano"
+      ],
+      "author": "Aquascape Master Ahnaf",
+      "readTime": "8 min read",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=1200",
+      "date": "2026-06-22",
+      "faq": [
+        {
+          "question": "Does Seiryu stone affect water hardness?",
+          "answer": "Yes, Seiryu raises GH and KH slightly due to calcite veins. Regular 30-50% water changes completely neutralize this shift."
+        }
+      ],
+      "seoTitle": "Takashi Amano's Iwagumi Aquascaping Rules | Leaf Aquatic",
+      "seoDescription": "The definitive beginner's guide to creating a Japanese Iwagumi rock layout. Understand Oyaishi, Fukuishi placement rules."
+    }
+  ],
+  "coupons": [
+    {
+      "code": "AQUA10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "expiryDate": "2027-12-31"
+    },
+    {
+      "code": "LEAFSAVE500",
+      "discountType": "fixed",
+      "discountValue": 500,
+      "expiryDate": "2027-12-31"
+    }
+  ],
+  "banners": {
+    "hero": {
+      "title": "Crafting Pristine Underwater Forests",
+      "subtitle": "Discover luxury aquascaping botanicals, hand-curated rare plant varieties, and professional grade CO₂ hardware.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=1200",
+      "link": "/shop",
+      "text": "Explore Premium Flora"
+    },
+    "promo": {
+      "title": "Healthy Plant Guarantee",
+      "subtitle": "Every stem, moss, and rhizome is nurtured in our organic, sterile facility. We promise 100% pest-free delivery across the country.",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1200",
+      "link": "/shop",
+      "text": "Browse Catalog"
+    },
+    "offer": {
+      "text": "📦 Free delivery on orders over ৳3000! • 🌿 Healthy Plant Arrival Guarantee • 🤝 Cash on Delivery nationwide",
+      "link": "/shop"
+    },
+    "whatsapp": {
+      "phoneNumber": "+8801716456902",
+      "link": "https://wa.me/+8801716456902",
+      "enabled": true,
+      "defaultMessage": "Hello Leaf Aquatic, I would like to know more about your products."
+    }
+  },
+  "legal": {
+    "privacy": "# Privacy Policy\n\nAt Leaf Aquatic, we take your privacy extremely seriously. This policy describes how we collect, use, and safeguard your data.\n\n### 1. Information Collection\nWe collect information when you place an order, sign up for our newsletter, or fill out a quiz. This includes your name, phone number, address, and email.\n\n### 2. Information Usage\nYour details are exclusively used to fulfill your orders, provide customer service, and deliver personalized newsletter care guides if opted in. We never sell or share your data with third parties.",
+    "terms": "# Terms & Conditions\n\nBy accessing and placing an order with Leaf Aquatic, you agree to comply with and be bound by the following terms of use.\n\n### 1. Live Plant Shipping\nDue to the biological nature of aquarium flora, orders are shipped in climate-insulated packaging. Customers must pick up packages immediately upon delivery.\n\n### 2. Intellectual Property\nAll designs, descriptions, photos, and guide materials are the sole property of Leaf Aquatic.",
+    "refund": "# Refund & Return Policy\n\n🌿 **Live Plant Guarantee**\n\nWe provide a **100% Healthy Arrival Guarantee**. If your plants arrive damaged, withered, or melted, please contact us within **2 hours** of delivery with a clear photograph next to the original shipping label.\n\nWe will instantly issue a full refund or send a fresh replacement at no extra charge. Returns of live biological items are not accepted.",
+    "shipping": "# Shipping & Delivery Policy\n\n### 1. Delivery Rates\n- **Inside Dhaka**: ৳60 (Flat Rate)\n- **Outside Dhaka (Cash on Delivery)**: ৳120\n\n### 2. Transit Duration\n- Dhaka City: 24 to 48 hours.\n- Nationwide Districts: 48 to 72 hours via specialized fast-couriers with climate protection layers."
+  },
+  "paymentSettings": {
+    "bKashEnabled": true,
+    "bKashNumber": "01799975540",
+    "bKashAccountType": "Personal",
+    "bKashInstruction": "Open bKash app -> Choose Send Money -> Enter the number -> Type full amount -> Put ORD number as Reference -> Confirm pin",
+    "bKashLogo": "https://images.unsplash.com/photo-1616077168712-fc6c788bc4ee?auto=format&fit=crop&q=80&w=300",
+    "nagadEnabled": true,
+    "nagadNumber": "01999975540",
+    "nagadAccountType": "Personal",
+    "nagadInstruction": "Open Nagad app -> Choose Send Money -> Enter the number -> Type full amount -> Put ORD number as Reference -> Confirm pin",
+    "nagadLogo": "https://images.unsplash.com/photo-1616077168712-fc6c788bc4ee?auto=format&fit=crop&q=80&w=300",
+    "accountHolderName": "Ahnaf Ali",
+    "codEnabled": true,
+    "codAdvanceAmount": 150,
+    "codInstruction": "Cash on Delivery is available. A small advance payment of ৳150 is required via bKash/Nagad to confirm every Cash on Delivery order to avoid spam/refusals. Our team will assist you via WhatsApp.",
+    "whatsappNumber": "+8801716456902",
+    "whatsappLink": "https://wa.me/+8801716456902",
+    "whatsappDefaultMessage": "Hello Leaf Aquatic, I would like to place a Cash on Delivery order."
+  }
+}

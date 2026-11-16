@@ -1,0 +1,8 @@
+{
+  "name": "Remix Leaf Aquatic",
+  "description": "A premium nature-inspired full-stack eCommerce experience specializing in curated aquascaping botany, hardscape elements, and custom CO₂ systems. Integrated with a professional AI plant selection assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
